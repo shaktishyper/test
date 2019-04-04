@@ -2,7 +2,7 @@
     "name": "shaktitest/words",
     "description": "this package returns the message from package",
     "type": "library",
-    "license": "n",
+    "license": "MIT",
     "authors": [
         {
             "name": "shaktisHlink",
